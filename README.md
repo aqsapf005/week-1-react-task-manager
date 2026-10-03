@@ -7,8 +7,7 @@
 **Week:** Week 4 — JavaScript Fundamentals, DOM, Events, Forms & localStorage
 
 ## Live Deployment Link
-
-[View Live Project](https://aqsapf005.github.io/aurex-web-internship-aqsa/)
+   https://aqsapf005.github.io/aurex-web-internship-aqsa-week-4/
 
 ## Technologies Used
 
